@@ -11,3 +11,12 @@ TO DO
 - implement more validations
 - analyze an authentification addition ( maybe jwt ? )
 - add some more swagger features
+
+
+Transaction Payload example : 
+
+ "payerAccount": "1231-2121",
+  "receiverAccount": "2212-1212",
+  "iban": "RO49AAAA1B31007593840000",
+  "amount": 10,
+  "currency": "RON"
