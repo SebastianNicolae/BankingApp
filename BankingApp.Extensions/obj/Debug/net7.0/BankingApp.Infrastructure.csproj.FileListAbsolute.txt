@@ -1,0 +1,12 @@
+C:\study\BankingApp\BankingApp.Extensions\bin\Debug\net7.0\BankingApp.Infrastructure.deps.json
+C:\study\BankingApp\BankingApp.Extensions\bin\Debug\net7.0\BankingApp.Infrastructure.dll
+C:\study\BankingApp\BankingApp.Extensions\bin\Debug\net7.0\BankingApp.Infrastructure.pdb
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\BankingApp.Infrastructure.csproj.AssemblyReference.cache
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\BankingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\BankingApp.Infrastructure.AssemblyInfoInputs.cache
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\BankingApp.Infrastructure.AssemblyInfo.cs
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\BankingApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\BankingApp.Infrastructure.dll
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\refint\BankingApp.Infrastructure.dll
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\BankingApp.Infrastructure.pdb
+C:\study\BankingApp\BankingApp.Extensions\obj\Debug\net7.0\ref\BankingApp.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\study\BankingApp\BankingApp.Domain\bin\Debug\net7.0\BankingApp.Application.deps.json
+C:\study\BankingApp\BankingApp.Domain\bin\Debug\net7.0\BankingApp.Application.dll
+C:\study\BankingApp\BankingApp.Domain\bin\Debug\net7.0\BankingApp.Application.pdb
+C:\study\BankingApp\BankingApp.Domain\bin\Debug\net7.0\BankingApp.Models.dll
+C:\study\BankingApp\BankingApp.Domain\bin\Debug\net7.0\BankingApp.Models.pdb
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.csproj.AssemblyReference.cache
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.AssemblyInfoInputs.cache
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.AssemblyInfo.cs
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.csproj.CoreCompileInputs.cache
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.csproj.CopyComplete
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.dll
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\refint\BankingApp.Application.dll
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\BankingApp.Application.pdb
+C:\study\BankingApp\BankingApp.Domain\obj\Debug\net7.0\ref\BankingApp.Application.dll
