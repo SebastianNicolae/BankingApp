@@ -20,3 +20,5 @@ Transaction Payload example :
   "iban": "RO49AAAA1B31007593840000",
   "amount": 10,
   "currency": "RON"
+
+  Note - Happy scenario has been taken into consideration, where we do not have null properties and objects
