@@ -17,9 +17,7 @@ namespace BankingApp.Domain.TransactionValidators
 
         public async Task<ValidatorResult> ValidateAsync(TransactionPostRequestModel transaction)
         {
-            var payerAccount = await _bankingAppDbContext.Account.Where(w => w.Iban == transaction.Iban).FirstAsync();
-
-            var iban = payerAccount.Iban.Replace(" ", "").ToUpper();
+           var iban = transaction.Iban.Replace(" ", "").ToUpper();
 
             if (!iban.StartsWith("RO") || iban.Length != 24)
             {
